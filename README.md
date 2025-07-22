@@ -1,8 +1,10 @@
 # 🩺 Heart Attack Risk Prediction
 
 [![Made with 💻 Colab](https://img.shields.io/badge/Made%20With-Colab-yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/aashwika25/Risk-Of-Heart-Disease-Prediction-Models/blob/main/Risk_Of_Heart_Disease_in_Patients_Aashwika.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.10-purple?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/aashwika25/Risk-Of-Heart-Disease-Prediction-Models?style=for-the-badge)](https://github.com/aashwika25/Risk-Of-Heart-Disease-Prediction-Models/issues)
+
 
 ---
 
