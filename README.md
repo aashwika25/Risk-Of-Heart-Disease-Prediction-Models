@@ -5,12 +5,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/aashwika25/Risk-Of-Heart-Disease-Prediction-Models?style=for-the-badge)](https://github.com/aashwika25/Risk-Of-Heart-Disease-Prediction-Models/issues)
 
-
 ---
 
-### 👩‍💻 Created by [Aashwika Khurana](https://github.com/aashwika25)
-
 This notebook analyzes the Heart Attack Prediction dataset using a structured machine learning pipeline. Multiple models—Logistic Regression, Random Forest (baseline and tuned), and Gradient Boosting—are trained and evaluated to compare predictive performance.
+
+---
+<p align="center"><sub><em>Keywords describing the focus and technologies used</em></sub></p>
+
+<p align="center">
+  <kbd>Machine Learning</kbd> •
+  <kbd>HealthTech</kbd> •
+  <kbd>Model Comparison</kbd> •
+  <kbd>Logistic Regression</kbd> •
+  <kbd>Random Forest</kbd> •
+  <kbd>Gradient Boosting</kbd> •
+  <kbd>Classification</kbd> •
+  <kbd>Scikit-Learn</kbd>
+</p>
 
 ---
 
@@ -64,6 +75,11 @@ Top 15 features by importance (from tuned Random Forest):
 
 ---
 
+## 🔮 Future Work
+- Add deployment using Flask or Streamlit
+- Explore SHAP for explainability
+- Test with a larger dataset for generalization
+---
 ## 📌 Open in Colab
 
 Launch the notebook directly in Google Colab:
